@@ -560,6 +560,71 @@ The latest submission before the deadline is the one that counts.
 Start small, finish one entry cleanly, and let that first claim
 teach you more than any guide can. Good luck — and welcome in.
 
+## Your first hour on make.fun: a checklist
+
+Your first hour does not need to produce a finished entry.
+It needs to leave you set up, oriented, and already building
+in the right session, so the work you do next actually counts.
+Work through this list in order and tick each item off as you go.
+
+- [ ] **Minutes 0–5: Sign up.** Go to https://make.fun/r/er9011hp,
+  create your account, and confirm you can sign back in again.
+  Then open your profile and link GitHub and your Solana wallet
+  straight away, while setup is still fresh in your mind.
+- [ ] **Minutes 5–10: Connect an agent.** Open a fresh session
+  with the AI coding agent you plan to build with, point it at
+  `make.fun/skill.md`, and pair the make.fun CLI from your
+  working folder so bundling and submitting will work later.
+- [ ] **Minutes 10–20: Read one bounty brief properly.** Pick a
+  single promising bounty and read its Task, Rewards, and Phases
+  tabs end to end, not just the headline prize figure.
+- [ ] **Minutes 10–20, continued: Read its RULES.** Download the
+  kit for that bounty and read `RULES.txt` first, before you
+  write anything, because that file overrules every summary.
+- [ ] **Minutes 20–25: Check entry fees and deadlines.** Note
+  whether the bounty charges any fee, how many submissions you
+  are allowed, when entries close in your own timezone, and
+  when results and claims are due, and write those dates down.
+- [ ] **Minutes 25–45: Build in small turns.** Start the build
+  in this same fresh session, ask your agent for one small,
+  testable piece at a time, review each turn, and commit your
+  progress in your repo as you go instead of in one big rush.
+- [ ] **Minutes 45–50: Run the kit check.** Bundle your session
+  transcripts and run the kit's local check on your work so far,
+  even if the entry is not finished yet, to catch format or
+  proof problems while they are still cheap to fix. If a check
+  fails, it names the exact fix it wants, so apply that fix and
+  re-run the check instead of submitting anyway and hoping.
+- [ ] **Minutes 50–55: Submit only if check passes.** If the
+  local check is clean and the entry is ready, submit it with
+  the real repo URL and commit hash, and save the submission
+  details the command prints out for your notes.
+- [ ] **Minutes 55–58: Verify status.** Run the status command
+  straight after submitting and confirm your entry shows as
+  submitted rather than rejected, and note any failed check by
+  name if it did bounce, so you can fix exactly that thing.
+- [ ] **Minutes 58–60: Learn how to claim.** Read the claim
+  step for your bounty before you need it, check the claim
+  window and wallet it pays to, and keep your claim code safe
+  if your entry places, so claiming USDC is a calm last step.
+
+### Three mistakes that waste a first entry
+
+- Submitting without running the kit check first, so a fixable
+  format or proof problem turns into a rejection you only see
+  after the deadline has already passed.
+- Pasting the starter file unchanged and calling it an entry,
+  instead of building something original that actually answers
+  the brief the bounty asked for.
+- Missing the deadline timezone conversion to WIB, so you plan
+  around the wrong closing hour and rush — or lose — the final
+  submission you had already done the work for.
+
+If you finish the hour with an account, a connected agent, one
+bounty you truly understand, and a first checked build in a
+fresh session, you have done the hard part. The second hour is
+just more of the same, with far less guessing.
+
 ---
 
 *Found this guide before you had an account? Sign up via https://make.fun/r/er9011hp — referral code `er9011hp`.*
